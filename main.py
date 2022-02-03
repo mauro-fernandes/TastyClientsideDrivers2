@@ -55,3 +55,4 @@ plt.plot(x, temp_comp)
 plt.plot(x, temp_comp2)
 plt.plot(x, temp_comp3)
 plt.show()
+
